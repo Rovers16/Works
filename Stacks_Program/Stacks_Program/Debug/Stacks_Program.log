@@ -1,0 +1,5 @@
+﻿  stack_program_source.cpp
+h:\cosc214\stacks_program\stacks_program\stack_program_source.cpp(235): warning C4101: 'oldch': unreferenced local variable
+h:\cosc214\stacks_program\stacks_program\stack_program_source.cpp(235): warning C4101: 'newch': unreferenced local variable
+  Stacks_Program.vcxproj -> H:\COSC214\Stacks_Program\Debug\Stacks_Program.exe
+  Stacks_Program.vcxproj -> H:\COSC214\Stacks_Program\Debug\Stacks_Program.pdb (Partial PDB)

@@ -1,0 +1,55 @@
+Below are the elements of a stack
+music money tooth cents ghost write glove lover faith crash crush range fruit roomy marks blood state steak green white black shirt slave shade shave 
+
+The second element that's removed is
+music
+
+Below are the elements of a stack
+fruit scarf speed goals joint drink ounce whole pound flyer penny files stake break 
+
+Below is a stack printed backwards recusively.
+break stake files penny flyer pound whole ounce drink joint goals speed scarf fruit 
+
+Below are the elements of a stack
+fruit scarf speed goals joint drink ounce whole pound flyer penny files stake break 
+
+Below are the elements of a stack
+shave shirt blood glove cents music 
+
+The succesor stack is.
+Below are the elements of a stack
+ioods tcarf thoes qoles qolar dents hlove thirt hlass ioles qants caggy dlock tauce walue clock qarts qarkjuice nusic qhone thark clood thave dheap 
+
+Below are the elements of a stack
+fruit scarf speed goals joint drink ounce whole pound flyer penny files stake break hoods scarf shoes poles polar cents glove shirt glass holes pants baggy clock sauce value block parts parkjuice music phone shark blood shave cheap 
+
+The length of the stack is.
+14
+
+Below are the elements of a stack
+music money tooth cents ghost write glove lover faith crash crush range fruit roomy marks blood state steak green white black shirt slave shade shave 
+
+The stacks are not equal.
+
+The stacks are equal.
+
+The max element in the stack is
+value
+The min element in the stack is
+baggy
+
+Below are the elements of a stack
+fruit music scarf speed goals joint drink ounce whole pound flyer penny files stake break 
+
+Below are the elements of a stack
+scarf speed goals joint drink ounce whole pound flyer penny files stake 
+
+Below are the elements of a stack
+break stake files penny flyer pound whole ounce drink joint goals speed scarf music fruit 
+
+The bottom element in this stack is
+fruit
+
+Below are the elements of a stack
+fruit yyyyy music scarf yyyyy speed goals joint yyyyy drink yyyyy yyyyy pound yyyyy flyer penny yyyyy files yyyyy yyyyy break 
+
