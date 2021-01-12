@@ -1,0 +1,90 @@
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music 
+
+The elements in the queue are.
+cheap shave blood shark phone music parkjuice parts block value sauce clock baggy pants holes 
+glass shirt glove cents polar poles shoes scarf hoods 
+
+The elements in the queue are.
+break stake files penny flyer pound whole ounce drink joint goals speed scarf music fruit 
+
+
+The elements in the queue are.
+break stake strap files penny flyer strap pound whole ounce strap drink joint goals strap 
+speed scarf strap music fruit 
+
+The first element in the queue is.
+shave
+
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music 
+
+The elements in the queue are.
+cheap shave blood shark phone music parkjuice parts block value sauce clock baggy pants holes 
+glass shirt glove cents polar poles shoes scarf hoods 
+
+The square queue
+The elements in the queue are.
+cheapcheap shaveshave bloodblood sharkshark phonephone musicmusic parkjuiceparkjuice partsparts blockblock valuevalue saucesauce clockclock baggybaggy pantspants holesholes 
+glassglass shirtshirt gloveglove centscents polarpolar polespoles shoesshoes scarfscarf hoodshoods 
+
+The elements in the queue are.
+break stake strap files penny flyer strap pound whole ounce strap drink joint goals strap 
+speed scarf strap music fruit 
+
+The replacement queue.
+The elements in the queue are.
+break stake yyyyy files penny flyer yyyyy pound whole ounce yyyyy drink joint goals yyyyy 
+speed scarf yyyyy music fruit 
+
+The concatenated que
+The elements in the queue are.
+break stake yyyyy files penny flyer yyyyy pound whole ounce yyyyy drink joint goals yyyyy 
+speed scarf yyyyy music fruit cheapcheap shaveshave bloodblood sharkshark phonephone musicmusic parkjuiceparkjuice partsparts blockblock valuevalue 
+saucesauce clockclock baggybaggy pantspants holesholes glassglass shirtshirt gloveglove centscents polarpolar polespoles shoesshoes scarfscarf hoodshoods 
+
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music 
+
+The elements in the queue are.
+break stake files penny flyer pound whole ounce drink joint goals speed scarf music fruit 
+
+
+The union queue.
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music break stake files penny flyer 
+pound whole ounce drink joint goals speed scarf 
+
+They are not equal.
+They are not equal.
+The copy queue.
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music 
+
+The queue has a length of.
+25
+
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music 
+
+The recursive reverse print.
+music money tooth cents ghost write glove lover faith crash crush range fruit roomy marks blood state steak green white black shirt slave shade shave 
+
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music 
+
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music 
+
+The elements in the queue are.
+shave shade slave shirt black white green steak state blood marks roomy fruit range crush 
+crash faith lover glove write ghost cents tooth money music 
+
