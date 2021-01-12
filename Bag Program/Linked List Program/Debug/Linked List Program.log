@@ -1,0 +1,6 @@
+﻿  linkedlistprogram.cpp
+h:\cosc214\bag program\linked list program\linkedlistprogram.cpp(564): warning C4101: 'ptr1': unreferenced local variable
+h:\cosc214\bag program\linked list program\linkedlistprogram.cpp(564): warning C4101: 'Unbag': unreferenced local variable
+h:\cosc214\bag program\linked list program\linkedlistprogram.cpp(279): warning C4715: 'equal': not all control paths return a value
+  Linked List Program.vcxproj -> H:\COSC214\Bag Program\Debug\Linked List Program.exe
+  Linked List Program.vcxproj -> H:\COSC214\Bag Program\Debug\Linked List Program.pdb (Partial PDB)

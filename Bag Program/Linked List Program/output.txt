@@ -1,0 +1,33 @@
+Ubag
+a ! a , ; a 9 b b 3 2 1 1 3 8 Z A P M p D P A Z C c 8 9 7 ; , . D d c Z M A P a b 3 ; 7 ! 
+Sbag
+a ! a b 3 3 Z A 7 
+Nbag
+1 1 a 7 8 9 C c ; 
+Abag
+9 b b 1 1 8 D P ; ! ! 
+The Charater was not found.
+Number of Elements in a bag
+9
+This is not a subset.
+The lists are not equal.
+The intersection list of the 2 bags.
+7 c C 8 1 9 ; a 
+This is the complement of Abag.
+7 3 a A M Z c d . , 7 c C Z A p M A Z 3 2 3 a , a a 
+This is the union of the 2 lists
+! 3 3 7 A Z a a b 1 1 7 8 9 ; C a c 
+This is the max value of the list
+c 
+This adds a new value to the Head of the list
+Q 9 b b 1 1 8 D P ; ! ! 
+This is the list with an item removed.
+! 3 7 A Z a a b 1 1 7 8 9 ; C a c 
+This is the list with an item removed.
+! C 9 8 b D D 
+The copy list is
+a ! a , ; a 9 b b 3 2 1 1 3 8 Z A P M p D P A Z C c 8 9 7 ; , . D d c Z M A P a b 3 ; 7 ! 
+The relative difference is
+! ! P D b b Q 
+This is no list
+
